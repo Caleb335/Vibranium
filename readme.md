@@ -16,7 +16,7 @@ This awesome Progressive Web App was created for Developer Student Clubs in Sub 
 | Name | Source Code| Demo |
 | --- | --- | --- |
 | Dark Theme | [GitHub](https://github.com/kelvinkamau/vibranium-dark) | [Preview](https://devclub-kisii.firebaseapp.com) |
-|Light Theme | [GitHub](https://github.com/kelvinkamau/Vibranium) | [Preview](kelvinkamau.github.io/Vibranium) |
+|Light Theme | [GitHub](https://github.com/kelvinkamau/Vibranium) | [Preview](https://kelvinkamau.github.io/Vibranium) |
 
 ## Creators 👨‍💻
 * [DSC Sub Saharan Africa Leads](https://github.com/DSCLEADSAfrica)
@@ -86,13 +86,16 @@ This project uses [semver](https://semver.org) for versioning. Current version: 
 | Community Name | Location | Web App Link | 
 | --- | --- | --- | 
 | DSC Kisii University | Kenya | [Live Here](https://devclub-kisii.firebaseapp.com/) |
-| DSC Taita Taveta University | Kenya | [Live Here](https://dsc-ttu.firebaseapp.com/) |
+| DSC Taita Taveta University | Kenya | [Live Here](https://dsc-at-ttu.firebaseapp.com/) |
 | DSC Bayero University Kano | Nigeria | [Live Here](https://dscbuk.club/) |
 | DSC Yabatech | Nigeria | [Live Here](https://dscyabatech.firebaseapp.com/) |
 | SemaPay | Kenya | [Live Here](https://semapay.co.ke/) |
 | DSC University of Nairobi | Kenya | [Live Here](https://dsc-uon.firebaseapp.com) |
 | DSC FUTA | Nigeria | [Live Here](https://dscfuta.com) |
 | DSC IBBUL | Nigeria | [Live Here](https://dscibbul.club) |
+| DSC Purdue University | Indiana, USA | [Live Here](https://dscpurdue.org/) |
+| DSC Univesity of Lagos| Nigeria | [Live Here](https://dscunilag.dev/)|
+| DSC Ekiti State University | Nigeria | [Live Here](https://dsceksu.herokuapp.com/)|
 
 ## License
 ```
