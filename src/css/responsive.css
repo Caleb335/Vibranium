@@ -143,6 +143,9 @@ RESPONSIVES
     margin-bottom: 140px;
     padding-bottom: 120px;
   }
+  #logo img {
+    width: 100px;
+  }
   /* Feature Cards */
   .feature-card {
     margin-bottom: 50px;
