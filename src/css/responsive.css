@@ -144,7 +144,8 @@ RESPONSIVES
     padding-bottom: 120px;
   }
   nav img {
-    width: 180px;
+    width: 200px;
+    height: 20px;
   }
   /* Feature Cards */
   .feature-card {
